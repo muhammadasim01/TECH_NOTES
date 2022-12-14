@@ -1,0 +1,15 @@
+Q1: Why you are leaving current job?
+ANS: I’m in the resource pool in the current company so I want to switch.
+
+Q2: Tell me about yourself?
+ANS: My name is Muhammad Asim, I'm a 21-year-old tech enthusiast. and I'm currently working in a startup located in Behria town Islamabad, before that I worked in a company located in Lahore also I have work with freelance US clients, while there I have touched a lot of domains, I've worked in ERP systems, NGO's and Islamic organization in the USA. I have approximately two years of experience in full-stack development (MERN stack specifically). I have in depth experience of REACT NODE mongodb graphql express typescript etc. I am looking forward to join good company in order to leverage my expertise
+
+Q3: What interesting projects have you worked on in the past?
+ANS: I've worked on the ERP system of a corporate, also I've worked on the C2C platform, also I've worked on the ESCROW payment (that was one of my favorite projects) gateway to maintain the trust level between the two end users and make it too secure, also worked on some Islamic organizations of the USA in the coordination with the USA client.
+
+
+
+
+
+
+

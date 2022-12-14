@@ -1,0 +1,1 @@
+Q diff b/w shallow dom vs real dom and virtual dom?
