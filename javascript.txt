@@ -1,1 +1,5 @@
-Q Is javascript fully based on OOP
+Q Is javascript fully based on OOP?
+
+Q what is observable in JavaScript?
+
+Q Differnce between promises and observable?

@@ -1,0 +1,2 @@
+Q1 what is transaction in mongodb? and how we can acheive transaction like thing in mongodb?
+ANS:
