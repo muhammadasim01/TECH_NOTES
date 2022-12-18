@@ -10,3 +10,25 @@ Q: What to get realtime updates in nodejs?
 ANs: 
 Q: What re websockets?
 ANs: 
+
+Q what is stream in nodejs and why should we use this?
+
+Q what is the concept of stream?
+
+
+Q what is pipe in nodejs or javascript in general?
+
+Q what are the types of streams in nodejs
+
+
+Q what is libuv and how does libuv works under the hood?
+
+Q how does node handle child threads?
+
+Q if nodejs is single threaded then how can it manage concurruncy?
+
+Q what is routing?
+
+Q what is REPL in nodejs?
+
+Q what are nodejs buffer?

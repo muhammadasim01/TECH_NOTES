@@ -2,3 +2,21 @@ Q diff b/w shallow dom vs real dom and virtual dom?
 ANS
 
 Q what is custom hooks in reactjs and how can we make custom hooks in reactjs?
+
+
+Q How do we apply validations in porps?
+Hint: proptypes
+
+Q why do we bind componentes with event handlers in reactjs?
+
+Q what is the difference between useRef and createRef?
+
+Q what is render props in reactjs?
+
+Q what is higher order components in reactjs?
+
+Q what is reconsiliation in reactjs?
+
+Q what are pure components in reactjs?
+
+Q what is the difference between smart components and dumb components in reactjs

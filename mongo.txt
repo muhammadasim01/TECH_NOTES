@@ -1,2 +1,36 @@
 Q1 what is transaction in mongodb? and how we can acheive transaction like thing in mongodb?
 ANS:
+
+Q how to acheive transactions and locking in mongodb?
+
+Q what is coverd query in mongodb
+
+
+Q what is indexing in mongodb and how we can acheive this?
+
+Q what is explain method in mongodb?
+
+Q how do we scale up documents in mongodb?
+
+
+Q what is core api and callback api in mongodb transactions?
+
+Q what is replica sets and replication in mongodb?
+
+Q What is sharding in mongodb?
+
+Q what is aggregation framwork in mongodb?
+
+Q what is storage engine in mongodb?
+
+Q how to search text from mongodb collections
+Ans: here we need to create index functions and inside that function we need to pass over desired fields.....to be continue... also we can use $search like thing.
+
+Q does mongodb support foreign key constraints?
+
+Q what are command syntax in mongodb?
+
+Q what is db.ismaster()
+
+
+Q what are the various database methods  https://www.mongodb.com/docs/v4.2/reference/method/js-database/   

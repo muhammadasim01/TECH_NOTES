@@ -3,3 +3,10 @@ Q Is javascript fully based on OOP?
 Q what is observable in JavaScript?
 
 Q Differnce between promises and observable?
+
+Q how v8 engine compiles the javascript code ?
+
+Q what are the cons of using arrow functions in javascript?
+
+
+Q what are the features of eventloop in javascript
