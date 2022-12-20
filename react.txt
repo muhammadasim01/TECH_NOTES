@@ -4,7 +4,7 @@ ANS
 Q what is custom hooks in reactjs and how can we make custom hooks in reactjs?
 
 
-Q How do we apply validations in porps?
+Q How do we apply validations in props?
 Hint: proptypes
 
 Q why do we bind componentes with event handlers in reactjs?
