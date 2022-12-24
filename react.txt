@@ -20,3 +20,9 @@ Q what is reconsiliation in reactjs?
 Q what are pure components in reactjs?
 
 Q what is the difference between smart components and dumb components in reactjs
+
+Q what are keys?
+
+Q define memomization in reactjs
+
+Q How to create characterwise search bar in reactjs?

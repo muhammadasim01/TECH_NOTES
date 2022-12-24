@@ -10,3 +10,5 @@ Q what are the cons of using arrow functions in javascript?
 
 
 Q what are the features of eventloop in javascript
+
+Q set and map functions in javascript

@@ -1,0 +1,5 @@
+Q define throttling?
+
+Q interview could ask about architecture specific questions (high level and low level questions) ?
+
+
