@@ -26,3 +26,5 @@ Q what are keys?
 Q define memomization in reactjs
 
 Q How to create characterwise search bar in reactjs?
+
+Q what is recompose (library) in reactjs?
