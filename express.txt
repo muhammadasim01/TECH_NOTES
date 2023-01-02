@@ -2,3 +2,7 @@ Q1 what is the difference between koajs and express js?
 
 
 Q what is defference between nestjs and express?
+
+Q what is app.all method in express?
+
+Q why to use express.router instead of using single routes?

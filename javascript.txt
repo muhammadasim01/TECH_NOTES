@@ -12,3 +12,9 @@ Q what are the cons of using arrow functions in javascript?
 Q what are the features of eventloop in javascript
 
 Q set and map functions in javascript
+
+Q regular expression in javascript?
+
+Q promises.all in javascript?
+
+Q is primitive data type or array (specifically )is a reference based data type or not?

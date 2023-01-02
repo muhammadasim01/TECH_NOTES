@@ -28,3 +28,15 @@ Q define memomization in reactjs
 Q How to create characterwise search bar in reactjs?
 
 Q what is recompose (library) in reactjs?
+
+Q what are pure components in react js ? why should we use this.
+
+Q what should we do if we have nothing to change data in our compoenets in which compoenet is suitable at this stage class or functinal
+
+Q what is useSWR() hook in reactjs?
+
+Q what are  Lazy Imports in react js?
+
+Q what is React Query and Client Caching?
+
+Q what is Zustand (like redux)?

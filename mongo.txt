@@ -33,4 +33,13 @@ Q what are command syntax in mongodb?
 Q what is db.ismaster()
 
 
+
 Q what are the various database methods  https://www.mongodb.com/docs/v4.2/reference/method/js-database/   
+
+Q what is ACID transaction in mongodb?
+ANS: ACID stands for atomicity consistency isolation and durability. atomicity means all or none in short the transaction have to either fullfiled completely or failed completely there is no oprion for partial transactions availble in atomicity.
+the term consistency here means that it should be correct throuhout the process.
+the term isolation here means that that any transaction should not have affect on any other transaction.
+the term durable here means that that the data that we updated here in transaction have permanently stored it must not be alter in any case in the future once it's store permanently.
+
+Q what is the difference between remove() in delete () in mongodb?

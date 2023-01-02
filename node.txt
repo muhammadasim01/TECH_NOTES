@@ -32,3 +32,5 @@ Q what is routing?
 Q what is REPL in nodejs?
 
 Q what are nodejs buffer?
+
+Q what is Next tick() vs setimmediate() vs setTimout() 
