@@ -1,0 +1,1 @@
+Q define Ultimate Design Patterns - Singleton, Proxy, Factory, Observer etc.?
