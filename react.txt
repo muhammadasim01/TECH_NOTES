@@ -40,3 +40,11 @@ Q what are  Lazy Imports in react js?
 Q what is React Query and Client Caching?
 
 Q what is Zustand (like redux)?
+
+Q what do you know about relay library to use in reactjs?
+
+Q how do we handle loading state in reactjs? OR what is suspence in reactjs?
+
+Q what is concurrent rendering in reactjs?
+
+Q what do you know about server components in reactjs?
