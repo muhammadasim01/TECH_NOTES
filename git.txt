@@ -1,0 +1,52 @@
+Q how do we make alias commands in git? and what do you know about that alias command?
+
+Q what is ammend command in git?
+
+Q what do you know about that stash in git?
+
+Q how to change default branch in git?
+ANS: git branch -M main/master/anything you want
+
+Q how to pretify git logs?
+ANS: git log --graph --oneline --decorate 
+
+Q what do you know about git bisect command in git?
+
+Q what do you know about git rebase or squash/pick/fixup in git?
+
+Q what do the following command do 
+     git rebase -i --autosquash
+
+Q what do you know about git hooks 
+
+Q what is the repository for git hooks to use in javascript?
+ANS: npm i husky
+
+Q how to switch previous branch in git
+ANS: git checkout -
+
+Q what do you know about git revert command in git?
+ANS: it's used to undo a particular commit in git but it will not remove permanently that commit from memory 
+git revert commit_hash
+
+
+Q how to revert previous commit on git?
+ANS: git revert HEAD
+
+
+Q what do you know about git reflog?
+
+Q how to search particular changes in repo associated to commits?
+ANS: here we can use -git log -S "your_search_text"
+
+Q git stash    , git stash pop ???
+
+Q suppose you created the new branch in local repo and you push all the code of that branch into the remote now you deleted that new branch from remote then how can you reflect that branch setting into your local repo?
+ANS: 
+    1. git branch -vv    ->(to check the branches detailed info)
+    2. git remote update --prune    ->(to align local with remote repository)
+
+Q git reset --hard origin/main
+
+Q git bisect tutorial
+ANS: https://www.youtube.com/watch?v=mnmYwRoSisg&ab_channel=WebDevSimplified watch this video to master git bisect command
