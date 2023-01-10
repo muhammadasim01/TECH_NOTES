@@ -1,2 +1,6 @@
 Q What is overloading and overriding in TS
 
+Q if we want to get a type of function that returns a Promise what should we do here?
+ANS: we can use the type <Awaited> here to get the type from promise return 
+
+Q what do you know about typescript utilities?
