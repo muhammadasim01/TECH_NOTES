@@ -1,0 +1,3 @@
+Q what is hydration in reactjs?
+
+NOTE: BEST RESOURCE TO LEARN STATIC /SERVER SIDE GENERATION https://www.youtube.com/watch?v=PN1HgvAOmi8

@@ -48,3 +48,11 @@ Q how do we handle loading state in reactjs? OR what is suspence in reactjs?
 Q what is concurrent rendering in reactjs?
 
 Q what do you know about server components in reactjs?
+
+Q what is hydration in reactjs?
+
+Q what is core web vitals
+
+Q what is react snap
+
+Q what is react helmet

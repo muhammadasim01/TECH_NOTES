@@ -1,8 +1,30 @@
+Q encapsulation in OOP
+we can group together a related methods and data members into object 
+
+Q what is abstraction in OOP
+we can restrict the private members to use outside of the class to reduce impact of change
+
+Q polymorphism in OOP
+to redefine the function login for different class object we can use this with the help of inheritence
+
+
+Q super() in OOP
+it is used to initialize the constructor of parent class
+
+Q clousers in JS
+a function along with it's lexical environment
+
 Q Is javascript fully based on OOP?
 
 Q what is observable in JavaScript?
 
 Q Differnce between promises and observable?
+Ans : the main difference is observable returns multiple values on resolve/observe.next()
+also observable behaves like an array we can filter something before subscribing the result from resolved obeserver
+promises run automatically, promises not waited for someone to subscribe it.
+observable will not execute until we subscribe it
+but we can unsubscribe the producer/observable but not promises
+and we can write unsubscription login into the observable same as component unmount
 
 Q how v8 engine compiles the javascript code ?
 
@@ -18,3 +40,25 @@ Q regular expression in javascript?
 Q promises.all in javascript?
 
 Q is primitive data type or array (specifically )is a reference based data type or not?
+
+Q Differnce between deep copy and shallow copy?
+ans as we know by default the object is a reference based data type, so it copies the reference
+so if want to to copy it's value in some variable then we can use shallow copy and deep copy
+shallow copy:  
+let newObj=Obj.assign({},oldObj) // it copies values but only first level child
+
+deep copy:
+in order to get rid of this situation of shallow copying that it only copies values of first level not nested 
+then we can use deep copy by using JSON.stringify and JSON.parse at the same time
+but we will ignore methods in object then we can use lodash library to get rid of this situation
+_.clonedeep(oldObject)
+
+Q call() bind() and apply() in javascript
+ANS call() bind() and apply are used to borrow function and we can call these by providing this scope the functinality of these methods are same 
+the only difference is the usecase
+call():
+we can call call() method with numbers of arguents along with this
+apply():
+we can call apply() method with numbers of arguents in a form of an array along with this
+bind():
+it works same as call() method but the only difference is it returns the copy of the function and we need to invoke it afterwards

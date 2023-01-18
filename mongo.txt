@@ -2,11 +2,15 @@ Q1 what is transaction in mongodb? and how we can acheive transaction like thing
 ANS:
 
 Q how to acheive transactions and locking in mongodb?
+https://www.ultimateakash.com/blog-details/IiwzQGAKYAo=/How-to-implement-Transactions-in-Mongoose-&-Node.Js-(Express)
 
 Q what is coverd query in mongodb
 
 
 Q what is indexing in mongodb and how we can acheive this?
+ANS: indexing in mongodb means so fetch a particular data efficiently without examining the entire documents of collection.
+to acheive this first we have to create a index then use it
+
 
 Q what is explain method in mongodb?
 
