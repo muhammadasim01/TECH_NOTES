@@ -1,0 +1,5 @@
+Q what is the layer caching in docker?
+
+Q what is volumes in docker
+
+Q what id docker compose

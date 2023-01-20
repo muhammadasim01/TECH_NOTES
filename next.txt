@@ -1,3 +1,9 @@
 Q what is hydration in reactjs?
 
 NOTE: BEST RESOURCE TO LEARN STATIC /SERVER SIDE GENERATION https://www.youtube.com/watch?v=PN1HgvAOmi8
+
+Q what is ISR in nextjs?
+
+Q what is revalidate in ISR in next
+
+Q what is fallback page in nextjs
