@@ -62,3 +62,5 @@ apply():
 we can call apply() method with numbers of arguents in a form of an array along with this
 bind():
 it works same as call() method but the only difference is it returns the copy of the function and we need to invoke it afterwards
+
+Q what is debouncing and throtling in javascript
