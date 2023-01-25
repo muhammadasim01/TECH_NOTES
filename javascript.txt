@@ -5,7 +5,7 @@ Q what is abstraction in OOP
 we can restrict the private members to use outside of the class to reduce impact of change
 
 Q polymorphism in OOP
-to redefine the function login for different class object we can use this with the help of inheritence
+to redefine the function logic for different class object we can use this with the help of inheritence
 
 
 Q super() in OOP
@@ -24,7 +24,7 @@ also observable behaves like an array we can filter something before subscribing
 promises run automatically, promises not waited for someone to subscribe it.
 observable will not execute until we subscribe it
 but we can unsubscribe the producer/observable but not promises
-and we can write unsubscription login into the observable same as component unmount
+and we can write unsubscription logic into the observable same as component unmount
 
 Q how v8 engine compiles the javascript code ?
 
@@ -64,3 +64,9 @@ bind():
 it works same as call() method but the only difference is it returns the copy of the function and we need to invoke it afterwards
 
 Q what is debouncing and throtling in javascript
+
+Q what is JIT compilation (just in time) in javascript
+
+Q Explain the event loop and how it works in JavaScript?
+
+Q what is the difference between undefined and not defined in javascript

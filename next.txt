@@ -2,7 +2,8 @@ Q what is hydration in reactjs?
 
 NOTE: BEST RESOURCE TO LEARN STATIC /SERVER SIDE GENERATION https://www.youtube.com/watch?v=PN1HgvAOmi8
 
-Q what is ISR in nextjs?
+Q what is ISR (incrementing static generation) in nextjs?
+it uses the getStaic prop and its functionality is same as getSeverSideProp but in addition to it takes revalidate fields to cached the data from server after certain period of time
 
 Q what is revalidate in ISR in next
 

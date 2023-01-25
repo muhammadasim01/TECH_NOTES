@@ -34,3 +34,22 @@ Q what is REPL in nodejs?
 Q what are nodejs buffer?
 
 Q what is Next tick() vs setimmediate() vs setTimout() 
+
+Q what are the unchaughtexception and unhandledrejection in nodejs
+
+
+Q what are the different phases in nodejs
+The event loop has several phases, including the following:
+
+The poll phase: the event loop retrieves callbacks from the task queue and executes them.
+
+The check phase: the event loop checks the setImmediate() callbacks, and execute them if necessary.
+
+The close callbacks phase: the event loop checks for and executes close callbacks, such as those for sockets or file handles.
+
+The timers phase: the event loop checks for and executes callbacks for setTimeout() and setInterval().
+
+The idle, prepare phase: internal only phase used by libuv.
+
+
+Q what do you know about event driven architecture of nodejs

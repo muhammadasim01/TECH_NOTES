@@ -56,3 +56,5 @@ Q what is core web vitals
 Q what is react snap
 
 Q what is react helmet
+
+Q what is the difference between render and hydrate in react
