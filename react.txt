@@ -58,3 +58,16 @@ Q what is react snap
 Q what is react helmet
 
 Q what is the difference between render and hydrate in react
+
+Q what is useState batch?
+
+Q why we are not using let var const variables instead of using states in reactjs?
+
+Q what are the disadvantages of using redux
+
+Q what is actually memomization?
+
+Q why react is not performing memoization by default?
+
+Q do we have more queue in event loop in javascript instead of message queue?
+

@@ -70,3 +70,31 @@ Q what is JIT compilation (just in time) in javascript
 Q Explain the event loop and how it works in JavaScript?
 
 Q what is the difference between undefined and not defined in javascript
+
+Q what are the disadvantages of using callback instaed of promises in javascript
+
+
+
+
+
+:::::::::::: output questions :::::::::::
+
+1) 
+async function sleep(time){
+    return new Promise(resolve => settimeout(()=>resolve(time),time))
+}
+function a {
+    console.log(1);
+    await sleep(1000);
+    console.log(2)
+}
+function a {
+    console.log(3);
+    await sleep(1000);
+    console.log(4))
+}
+a()
+b()
+
+
+:::::::::::: output questions :::::::::::
