@@ -1,0 +1,59 @@
+Q what is microservices? ===> resource ===> https://www.youtube.com/watch?v=lTAcCNbJ7KE 
+ANS Microservices is an architectural style for building software applications as a suite of independently deployable, small, modular services. Each microservice runs a unique process and communicates through a well-defined, lightweight mechanism to serve a business goal. The goal of microservices is to improve speed, scalability, and reliability through fine-grained components that are independently deployable and testable.
+
+Q what is the opposite of microservices architecture (monoglithical architecture)?
+ANS The opposite architecture of microservices is often referred to as monolithic architecture. In monolithic architecture, an application is built as a single, tightly-coupled unit, with all components and features packaged together into a single deployable artifact. Changes to any part of the system typically require a full rebuild and redeployment of the entire application. Microservices, on the other hand, allow for more fine-grained and independently deployable components, making it easier to maintain, scale, and update individual parts of the system.
+
+
+Q when to use microservices architecture?
+ANS: 
+Microservices architecture is a suitable choice when the following conditions are met:
+
+Large and complex application: If your application is large and complex, breaking it down into smaller, independent services can make it easier to manage and develop.
+
+Independent, autonomous teams: If you have multiple teams working on different parts of the application, a microservices architecture can allow each team to work independently and deploy their services without affecting other teams.
+
+Scalability: Microservices architecture enables scaling individual services as needed, rather than scaling the entire application, which can be beneficial for applications with varying resource requirements.
+
+Technology diversity: Microservices allow you to choose the right technology stack for each service, rather than having to use the same technology throughout the entire application.
+
+Resilience: Microservices can improve the resilience of an application by allowing it to continue functioning even if one service fails.
+
+It is important to note that microservices architecture can come with its own challenges, such as increased operational complexity and inter-service communication overhead, so it is important to weigh the benefits against the costs before deciding to adopt it.
+
+
+
+Q when to use monolithical architecture?
+ANS
+Monolithic architecture is a suitable choice when the following conditions are met:
+
+Small to medium-sized applications: If your application is relatively small and simple, a monolithic architecture can be easier to develop and maintain, as all the components are tightly integrated and can share resources.
+
+Single team development: If your development team is small and working on the entire application, a monolithic architecture can be easier to manage and coordinate, as there is only one codebase and deployment process to worry about.
+
+Fast development and deployment: A monolithic architecture can be faster to develop and deploy, as all components are tightly integrated and can be deployed as a single unit.
+
+Same technology stack: If the entire application requires the same technology stack, a monolithic architecture can be easier to manage, as there is no need to deal with the operational complexities of multiple technology stacks.
+
+Cost: Monolithic architecture can be more cost-effective for small to medium-sized applications, as there is no need to set up and manage multiple services and the infrastructure required to run them.
+
+However, it is important to keep in mind that a monolithic architecture can become unwieldy and hard to manage as the application grows, so it's essential to assess the long-term needs and goals of your application before choosing a monolithic architecture.
+
+
+Q what are the disadvantages of using microservices?
+ANSWER:
+While microservices architecture has several advantages, it also has some disadvantages, including:
+
+Increased operational complexity: With microservices, there are many moving parts, and it can be challenging to manage and monitor the health and performance of all the services.
+
+Inter-service communication overhead: Communication between services can add latency and increase the complexity of the system, especially when services are deployed across different geographic locations.
+
+Development and testing complexity: Developing and testing microservices can be more complex than a monolithic architecture, as each service must be developed and tested individually, and there must be a mechanism for ensuring that services integrate correctly.
+
+Deployment complexity: Deploying microservices requires sophisticated deployment automation, as each service must be deployed and managed independently.
+
+Dependency management: Managing dependencies between services can be challenging, especially when services are updated at different times, and there must be a mechanism for ensuring that services continue to work together correctly.
+
+Increased cost: Implementing microservices architecture can be more expensive, as it requires a more complex infrastructure and additional development and operational overhead.
+
+It's important to weigh the advantages and disadvantages of microservices architecture and determine whether it's the right choice for your application based on your specific requirements and constraints.

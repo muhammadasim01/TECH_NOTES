@@ -1,0 +1,25 @@
+Here are some advanced MongoDB interview questions:
+
+Can you explain the difference between a replica set and a sharded cluster in MongoDB, and when to use each one?
+
+What are the best practices for indexing in MongoDB, and how do you measure the performance of your indexes?
+
+Can you discuss the different consistency models in MongoDB, and when to use each one?
+
+What are some of the most common performance tuning techniques for MongoDB, and how do you diagnose performance issues?
+
+Can you explain the concept of atomic transactions in MongoDB, and how do they work?
+
+Can you discuss the role of MapReduce in MongoDB, and how to use it for data analysis?
+
+What are some of the security features of MongoDB, and how do you secure sensitive data stored in MongoDB?
+
+Can you explain the difference between a capped collection and a normal collection in MongoDB, and when to use each one?
+
+Can you discuss the use of aggregation pipelines in MongoDB, and how to use them for data processing and analysis?
+
+Can you explain the concept of a GridFS in MongoDB, and how to use it for storing and retrieving large files?
+
+Can you discuss the use of geospatial indexing in MongoDB, and how to use it for location-based queries?
+
+What are some of the most common backup and recovery strategies for MongoDB, and how do you ensure data availability and durability?

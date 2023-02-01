@@ -1,0 +1,25 @@
+Here are some advanced Node.js interview questions:
+
+What are the differences between Node.js and other server-side technologies like PHP and ASP.NET?
+
+How do you handle errors and exceptions in Node.js?
+
+Can you explain the event loop in Node.js and how it works?
+
+How do you manage dependencies in Node.js and what is the purpose of a package manager like npm?
+
+Can you explain the concept of asynchronous programming in Node.js and why it is important?
+
+How do you handle concurrency in Node.js? Can you give examples of race conditions and how to avoid them?
+
+What are the best practices for testing Node.js applications, and what testing frameworks do you use?
+
+Can you explain how to scale a Node.js application horizontally and vertically, and what are the trade-offs?
+
+What is the difference between process.nextTick and setImmediate in Node.js?
+
+How do you implement security in a Node.js application, and what are the most common security threats to watch out for?
+
+Can you explain the difference between a RESTful API and a GraphQL API, and what are the benefits of using GraphQL?
+
+Can you discuss the pros and cons of using a microservices architecture in Node.js, and what tools do you use to implement it?

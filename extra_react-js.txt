@@ -1,0 +1,25 @@
+Here are some advanced React.js interview questions:
+
+Can you explain the concept of Virtual DOM in React and how it works?
+
+How do you handle state management in a complex React application, and what tools do you use for state management?
+
+Can you explain the lifecycle methods in React, and how do they work?
+
+How do you handle asynchronous operations in React, and what are the best practices for handling async code?
+
+Can you explain the concept of Higher-Order Components (HOCs) in React, and how do you use them to re-use code?
+
+Can you explain the concept of server-side rendering in React, and why is it important for SEO and performance?
+
+How do you implement routing in a React application, and what are the most common libraries used for routing?
+
+Can you explain the concept of lazy loading in React, and how do you implement it to optimize performance?
+
+How do you handle form submissions and data validation in React, and what are the best practices for form handling?
+
+Can you discuss the differences between props and state in React, and when to use each one?
+
+Can you explain the use of the React context API for sharing data between components, and how does it compare to other approaches like Redux?
+
+Can you discuss the use of Hooks in React, and how do they make it easier to manage state and side effects?
