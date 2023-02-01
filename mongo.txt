@@ -48,3 +48,9 @@ the term durable here means that that the data that we updated here in transacti
 
 Q what is the difference between remove() in delete () in mongodb?
 Q what is timestamps and timeseries in mongoose schema?
+
+Q what is srv protocol in mongodb connect string while we are using local mongodb
+
+Q what is the use of $pull $push $all $in $nin etc in mongoose database?
+
+Q what is the difference between SQL and NOSQL database?

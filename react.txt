@@ -62,6 +62,8 @@ Q what is the difference between render and hydrate in react
 Q what is useState batch?
 
 Q why we are not using let var const variables instead of using states in reactjs?
+ANS: because simple variable doesn't call the render() method after updating it's value while working with states at calls the render() method at every state update.
+
 
 Q what are the disadvantages of using redux
 
@@ -71,3 +73,8 @@ Q why react is not performing memoization by default?
 
 Q do we have more queue in event loop in javascript instead of message queue?
 
+Q waht is scheduleing and baching of states in react
+
+Q what is flushSync() method in react ?
+
+Q what is lifting state up in react ?

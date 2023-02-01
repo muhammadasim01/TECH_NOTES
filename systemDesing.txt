@@ -1,3 +1,6 @@
 Q define Ultimate Design Patterns - Singleton, Proxy, Factory, Observer etc.?
 
 Q here is the link to learn all design patterns https://refactoring.guru/design-patterns/typescript  ...  https://www.youtube.com/results?search_query=design+pattern+and+refactoring+
+
+
+Q what is http long poling?
