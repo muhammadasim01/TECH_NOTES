@@ -1,0 +1,16 @@
+what are traits?
+
+what are applets?
+
+difference between runtime polymorphism and compile time
+
+how to make one to many relationship and many to many relationship in mongodfa-border
+
+disadvantages of context 
+
+what is callback hell
+
+what is prop drilling
+
+what ara design pattern
+
